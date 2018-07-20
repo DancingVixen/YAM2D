@@ -26,3 +26,11 @@ The Flowgraph will continue to write the demodulated soft bits into the ".s" fil
 When there is no satellite in range the FFT graph will be relatively flat and there will be no noticable patterns in the QPSK constellation graph. 
 
 Once the pass is done, stop the flowgraph and put the .s file into the AMIGOS decoder using the button labeled "72k"
+
+#Test Files
+
+Below are some demodulated files using this GNU radio flowgraph to prove it works. You can also use these 72k .s files to test the AMIGOS decoder.
+
+Google Drive: https://drive.google.com/file/d/1-l3UAdCk58eSImAZAYOuX8TPeLs8ou0y/view
+
+Mega: https://mega.nz/#!S5d0WaRC!urYXNNpImruKyuOAtymZjvab9i9aDiN5gPwEmq3y9_8
