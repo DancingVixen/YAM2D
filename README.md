@@ -29,7 +29,7 @@ Once the pass is done, stop the flowgraph and put the .s file into the AMIGOS de
 
 #Test Files
 
-Below are some demodulated files using this GNU radio flowgraph to prove it works. You can also use these 72k .s files to test the AMIGOS decoder.
+Below are some demodulated files using this GNU radio flowgraph to prove it works. You can also use these 72k .s files to test the AMIGOS decoder. I will add these to the repository as well.
 
 Google Drive: https://drive.google.com/file/d/1-l3UAdCk58eSImAZAYOuX8TPeLs8ou0y/view
 
