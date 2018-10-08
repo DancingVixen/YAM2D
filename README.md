@@ -28,10 +28,4 @@ Once the pass is done, stop the flowgraph and put the .s file into the AMIGOS de
 
 #Test Files
 
-Below are some demodulated files using this GNU radio flowgraph to prove it works. You can also use these 72k .s files to test the AMIGOS decoder.
-
-Google Drive: https://drive.google.com/file/d/1-l3UAdCk58eSImAZAYOuX8TPeLs8ou0y/view
-
-Mega: https://mega.nz/#!S5d0WaRC!urYXNNpImruKyuOAtymZjvab9i9aDiN5gPwEmq3y9_8
-
-Based flowgraph from https://github.com/argilo/sdr-examples
+I have attached 72k .s files acquired with this flowgraph. The resulting image is also attached. The image was generated with the AMIGOS decoder.
